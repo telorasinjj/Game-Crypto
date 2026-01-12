@@ -1,0 +1,39 @@
+
+ body {
+      background:url("../bg.png");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      font-family: Arial, sans-serif;
+    
+    }
+.level img{
+    width: 300px;
+    height: auto;
+}
+.mine-card {
+  width: 35%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: gold;
+}
+.card-md{
+    opacity: 0.9;
+   
+}
+.card{
+  background: rgb(247, 238, 188);
+}
+.container-cave img{
+   align-items: center;
+   text-align: center;
+   
+}
+.card-cave {
+  background:none;
+  opacity: 0.9;
+}
